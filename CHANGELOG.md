@@ -1,6 +1,6 @@
 ## 0.3.25
 
-* Switched unity ads version to 4.15.0
+* Switched unity ads version to 4.14.2 to match latest gma_mediation_unity
 
 ## 0.3.24
 
